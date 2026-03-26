@@ -1,7 +1,7 @@
 import React from "react";
 import { Container } from "@chakra-ui/react";
 
-import { SigmaChiefJPG } from "constants/image_assets";
+import { SigmaChiefJPG, DEFAULT } from "constants/image_assets";
 import { Flex } from "@chakra-ui/react";
 
 import { Text, Box, Image } from "@chakra-ui/react";
@@ -23,7 +23,7 @@ const Chief = () => {
             mt={3.5}
             borderRadius="lg"
             width={{ lg: "95%", md: "80%", sm: "100%" }}
-            src={SigmaChiefJPG}
+            src={DEFAULT}
             alt="The Sigma Chief"
           />
         </Box>
@@ -44,7 +44,7 @@ const Chief = () => {
           <br />
 
           <Text fontSize="16px" lineHeight="7">
-            He is a final-year student of Veterinary Medicine, widely regarded as an epitome of philanthropy, charity, selflessness, empathy, and leadership.
+            {/* He is a final-year student of Veterinary Medicine, widely regarded as an epitome of philanthropy, charity, selflessness, empathy, and leadership.
             <br />
             <br />
             His philanthropy is evident not only in his acts of charity but also in his deep concern for the welfare of those around him, consistently championing the well-being of others.
@@ -61,7 +61,7 @@ const Chief = () => {
             <br />
             <Text fontSize="16" fontWeight={500}>
               He is a true embodiment of Sigma ideals and traditions, representing all that the Sigma Club stands for.
-            </Text>
+            </Text> */}
             <Text fontSize="20" fontWeight={600} py={8}>
               "The Sigma Chief is The Sigma Club"
             </Text>

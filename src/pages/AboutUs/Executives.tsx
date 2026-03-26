@@ -3,13 +3,7 @@ import { Container, Flex, Heading } from "@chakra-ui/react";
 import ExecutivesCard from "./ExecutivesCard";
 import {
   DeputyChiefJPG,
-  Bankole,
-  InvestmentChairJPG,
   DanielPromise,
-  OjoTobiloba,
-  OladimejiMuheez,
-  Olaosebikan,
-  UnahSimon,
   DEFAULT,
 } from "constants/image_assets";
 import { Executive } from "types";
@@ -19,7 +13,7 @@ const ExecutiveObj: Executive[] = [
     id: 1,
     name: "Loyalist Babatunde Faith",
     post: "Deputy Chief (Band Committee Chairman)",
-    image: DEFAULT,
+    image: DeputyChiefJPG,
   },
   {
     id: 2,
