@@ -8,7 +8,6 @@ import {
   akorede,
   oyerohabib,
   Adesokan,
-  Bankole
 } from "constants/image_assets";
 
 const ProfileOBJ = [
@@ -78,19 +77,7 @@ const ProfileOBJ = [
     Link: "#",
     Instagram: "#",
   },
-  {
-    id: 6,
-    Headshot: Bankole,
-    name: "Loyalist Bankole Caleb",
-    skill: "Front-End Developer",
-    intro:
-      "200 level medical student of the College of Medicine, University of Ibadan. I love to do it to the best of my ability, if I have to do it at all; anything my hands find to do.",
-    LinkedIn: "https://www.linkedin.com/in/caleb-bankole",
-    Email: "calebbanky247@gmail.com@gmail.com",
-    Twitter: "https://twitter.com/call_me_csharp",
-    Link: "#",
-    Instagram: "https://instagram.com/csharp_it_is",
-  },
+  
   // {
   //   id: 6,
   //   Headshot: AfiaHeadshot,
