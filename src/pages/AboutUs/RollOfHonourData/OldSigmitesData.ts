@@ -4502,12 +4502,68 @@ const OldSigmitesOBJ: OldSigmite[] = [
         "sigmaYear": "2023/2024",
         "name": "Muhammad Jamiu"
     },
-
-
+    {
+        "id": "901",
+        "sigmaYear": "2024/2025",
+        "name": "Ahmed Abdullah"
+    },
+    {
+        "id": "902",
+        "sigmaYear": "2024/2025",
+        "name": "Ojedele Kayode"
+    },
+    {
+        "id": "903",
+        "sigmaYear": "2024/2025",
+        "name": "Afolabi Saheed"
+    },
+    {
+        "id": "904",
+        "sigmaYear": "2024/2025",
+        "name": "Mustapha Hameed"
+    },
+    {
+        "id": "905",
+        "sigmaYear": "2024/2025",
+        "name": "Olaosebikan Gbolahan"
+    },
+    {
+        "id": "906",
+        "sigmaYear": "2024/2025",
+        "name": "Akparanta Simeon"
+    },
+    {
+        "id": "907",
+        "sigmaYear": "2024/2025",
+        "name": "Bello Tewogbola"
+    },
+    {
+        "id": "908",
+        "sigmaYear": "2024/2025",
+        "name": "Olaniyan Mohammed"
+    },
+    {
+        "id": "909",
+        "sigmaYear": "2024/2025",
+        "name": "Olowu Segun"
+    },
+    {
+        "id": "910",
+        "sigmaYear": "2024/2025",
+        "name": "Sikrullah Idris"
+    },
+    {
+        "id": "911",
+        "sigmaYear": "2024/2025",
+        "name": "Christopher Onuh"
+    },
+    {
+        "id": "912",
+        "sigmaYear": "2024/2025",
+        "name": "Uche Ikechukwu"
+    },
 ];
 
 
 
 export { OldSigmitesOBJ };
-
-//Covert excel doc to json at https://tableconvert.com/excel-to-json
