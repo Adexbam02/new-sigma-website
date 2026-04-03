@@ -16,7 +16,7 @@ export default function Hero() {
   return (
     <Flex
       w={"full"}
-      h={"85.65vh"}
+      h={"100vh"}
       backgroundImage={heroBg}
       backgroundSize={"cover"}
       backgroundPosition={"center center"}
