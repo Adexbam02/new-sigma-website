@@ -1,7 +1,7 @@
 import React from "react";
 import { Container } from "@chakra-ui/react";
 
-import { SigmaChiefJPG, DEFAULT } from "constants/image_assets";
+import {  DEFAULT, SigmaChiefF } from "constants/image_assets";
 import { Flex } from "@chakra-ui/react";
 
 import { Text, Box, Image } from "@chakra-ui/react";
@@ -23,7 +23,7 @@ const Chief = () => {
             mt={3.5}
             borderRadius="lg"
             width={{ lg: "95%", md: "80%", sm: "100%" }}
-            src={DEFAULT}
+            src={SigmaChiefF}
             alt="The Sigma Chief"
           />
         </Box>

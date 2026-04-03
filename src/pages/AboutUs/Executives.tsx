@@ -3,7 +3,12 @@ import { Container, Flex, Heading } from "@chakra-ui/react";
 import ExecutivesCard from "./ExecutivesCard";
 import {
   DeputyChiefJPG,
-  DanielPromise,
+  FandD,
+  Security,
+  Investment,
+  PublicityChairJPG,
+  SigmaTJPG,
+  ChiefScribeJPG,
   DEFAULT,
 } from "constants/image_assets";
 import { Executive } from "types";
@@ -19,13 +24,13 @@ const ExecutiveObj: Executive[] = [
     id: 2,
     name: "Loyalist Adeyeye Anthony",
     post: "Chief Scribe (Secretariat Committee Chairman)",
-    image: DEFAULT,
+    image: ChiefScribeJPG,
   },
   {
     id: 3,
     name: "Loyalist Daniel Promise",
     post: "Financial Scribe (Food & Drinks Committee Chairman)",
-    image: DanielPromise,
+    image: FandD,
   },
   {
     id: 4,
@@ -37,25 +42,25 @@ const ExecutiveObj: Executive[] = [
     id: 5,
     name: "Loyalist Sulaimon Philipson",
     post: "Publicity Committee Chairman",
-    image: DEFAULT,
+    image: PublicityChairJPG,
   },
   {
     id: 6,
     name: "Loyalist Daniel Bright",
     post: "Sigma Treasurer (Sponsorship & Gate-keeping Committee Chairman)",
-    image: DEFAULT,
+    image: SigmaTJPG,
   },
   {
     id: 7,
     name: "Loyalist Salawu Toyeeb",
     post: "Investment and Special Duties Committee Chairman",
-    image: DEFAULT,
+    image: Investment,
   },
   {
     id: 8,
     name: "Loyalist Okwuowulu Clement",
     post: "Security Committee Chairman",
-    image: DEFAULT,
+    image: Security,
   },
 ];
 

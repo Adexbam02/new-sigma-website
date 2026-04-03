@@ -8,7 +8,7 @@ import {
   Heading,
 } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
-import heroBg from "../../assets/hero-bg.jpg";
+import heroBg from "../../assets/IMG_9583.jpg";
 import DonateModal from "../../components/Donate";
 import CTAButton from "components/CTAButton";
 
