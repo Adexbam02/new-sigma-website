@@ -1,7 +1,7 @@
 import React from "react";
 import { Container } from "@chakra-ui/react";
 
-import {  DEFAULT, SigmaChiefF } from "constants/image_assets";
+import {   SigmaChiefF } from "constants/image_assets";
 import { Flex } from "@chakra-ui/react";
 
 import { Text, Box, Image } from "@chakra-ui/react";
